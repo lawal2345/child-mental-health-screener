@@ -4,9 +4,8 @@
 
 This is a research prototype demonstrating responsible AI for early identification in child mental health pathways. The tool uses Microsoft's Phi-3-mini-4k-instruct model to analyze text and identify potential indicators of anxiety and depression in children, aligned with the THRIVE framework for mental health support.
 
-## Purpose
-
-This tool is developed by Lawal Jesutofunmi as part of a PhD application to the University of Cambridge, Department of Psychiatry, for research under the NIHR HealthTech Research Centre. The project aligns with the Timely Group's mission to revolutionize childhood mental health services through responsible AI-powered digital tools.
+## Use the Tool on HuggingFace
+Access the tool on Huggingface via this link: https://huggingface.co/spaces/lawalll/child-mental-health-screener
 
 ## Features
 
