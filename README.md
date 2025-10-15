@@ -45,14 +45,6 @@ Access the tool on Huggingface via this link: https://huggingface.co/spaces/lawa
 - Developed for research and demonstration purposes only
 - Requires human clinical supervision for any practical application
 
-## Research Context
-
-This work is part of a PhD application focusing on:
-- Developing AI tools for child mental health pathways
-- Early identification of anxiety and depression in children
-- Implementation aligned with the THRIVE framework
-- Responsible AI development in healthcare settings
-
 ## Validation
 
 This prototype demonstrates the technical approach. The full research project will involve:
