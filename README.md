@@ -65,6 +65,4 @@ This prototype demonstrates the technical approach. The full research project wi
 
 If you use this tool or approach in your research, please reference:
 
-> Lawal, J. (2025). Child Mental Health Screening Tool: Responsible AI for Early Identification.PhD Application Portfolio, University of Cambridge, Department of Psychiatry.
-
-*Developed for the NIHR HealthTech Research Centre PhD Studentship Application*
+> Lawal, J. (2025). Child Mental Health Screening Tool: Responsible AI for Early Identification.
